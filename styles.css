@@ -1,0 +1,4 @@
+.quiet-sync-settings {max-width: 760px;}
+.quiet-sync-settings p {color:var(--text-muted);line-height:1.65;}
+.quiet-sync-settings .quiet-sync-status {padding:12px 16px;border-radius:8px;background:var(--background-secondary);color:var(--text-normal);}
+.quiet-sync-settings .setting-item-control input[type=text],.quiet-sync-settings .setting-item-control input[type=password] {min-width:180px;}

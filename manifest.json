@@ -1,0 +1,1 @@
+{"id":"quiet-oss-sync","name":"静默云同步","version":"0.1.0","minAppVersion":"1.8.0","description":"阿里云 OSS 自动同步：停笔上传、前台拉取、冲突保留副本。","author":"Quiet OSS Sync","isDesktopOnly":false}

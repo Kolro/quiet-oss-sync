@@ -1,0 +1,11 @@
+node_modules/
+data.json
+**/data.json
+.obsidian/
+.env
+.env.*
+*.log
+*.pem
+*.key
+.DS_Store
+Thumbs.db
